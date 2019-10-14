@@ -1,0 +1,30 @@
+# pip install pytest pytest-cov pytest-flake8 pytest-openfiles pytest-tap pytest-xdist
+apipkg
+atomicwrites
+attrs
+coverage
+execnet
+flake8
+mccabe
+more-itertools
+psutil
+py
+pycodestyle
+pyflakes
+pluggy
+py
+pytest
+pytest-cache
+# pytest-capturelog  # no longer needed, was merged into pytest
+pytest-cov
+pytest-flake8
+pytest-flask
+pytest-forked
+pytest-mccabe
+pytest-openfiles
+pytest-tap
+pytest-xdist
+six
+tap.py
+Flask-Testing
+selenium
